@@ -1,0 +1,41 @@
+'1830':
+  sv:
+    name: "Schuylkill Valley"
+    revenue: 5
+    core: true
+  pl:
+    name: "Pittsburgh & Louisville"
+    revenue: 5
+    core: false
+  cs:
+    name: "Champlain & St. Lawrence"
+    revenue: 10
+    core: true
+  cc:
+    name: "C&O Canal"
+    revenue: 10
+    core: false
+  pp:
+    name: "Potomac & Piedmont"
+    revenue: 10
+    core: false
+  dh:
+    name: "Delaware & Hudson"
+    revenue: 15
+    core: true
+  mh:
+    name: "Mohawk & Hudson"
+    revenue: 20
+    core: true
+  jk:
+    name: "James River & Kanawha"
+    revenue: 20
+    core: false
+  ca:
+    name: "Camden & Amboy"
+    revenue: 25
+    core: true
+  bo:
+    name: "Baltimore & Ohio"
+    revenue: 30
+    core: true 
